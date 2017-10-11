@@ -1,0 +1,19 @@
+{
+  "name": "nodejsmysamples",
+  "version": "1.0.0",
+  "description": "This project contains sample codes for doubtful situations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilc1/NodeJsMySamples.git"
+  },
+  "author": "akhilc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilc1/NodeJsMySamples/issues"
+  },
+  "homepage": "https://github.com/akhilc1/NodeJsMySamples#readme"
+}
