@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/akhilc1/NodeJsMySamples/issues"
   },
-  "homepage": "https://github.com/akhilc1/NodeJsMySamples#readme"
+  "homepage": "https://github.com/akhilc1/NodeJsMySamples#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
